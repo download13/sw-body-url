@@ -1,0 +1,13 @@
+{
+  "name": "sw-body-url",
+  "version": "0.0.0",
+  "description": "Middleware that parses the URL-encoded body of a request",
+  "main": "sw-body-url.js",
+  "repository": "https://github.com/download13/sw-body-url.git",
+  "homepage": "https://github.com/download13/sw-body-url",
+  "author": {
+    "name": "Erin Dachtler",
+    "email": "download333@gmail.com"
+  },
+  "keywords": ["middlware", "http", "body", "url", "encoding", "parse"]
+}
